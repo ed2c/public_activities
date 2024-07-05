@@ -20,7 +20,7 @@ We moved to a larger external location, that was still rather crowded (with peop
 # 6 June 2024
 The first CEDA Workshop
 - [General introduction and 1 Cijfer Package](https://github.com/ed2c/public_activities/blob/main/20240606_Intro_CEDA_Workshops_1_Cijfer_Package.pdf) ([repo](https://github.com/ed2c/docker_1cho))
-- Instroomprognose / inflow prognosis ([repo](https://github.com/ed2c/studentprognose))
+- [Instroomprognose / inflow prognosis](https://github.com/ed2c/public_activities/blob/main/20240606_Instroomprognose.pdf) ([repo](https://github.com/ed2c/studentprognose))
 
 You could at times 'smell' the enthousiasm in the room ;-)
 
