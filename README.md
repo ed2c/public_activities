@@ -9,14 +9,21 @@ A repository for the presenations and workshops of CEDA. In addition to these, C
 # 10 September 2024
 Create your CEDA! A Strategic session with ~40 guests from MBO, HBO, WO and partners like UNL, Studielink and Npuls / SURF. 
 
-- [20240910_CEDA_Strategische_sessie.pdf](https://github.com/user-attachments/files/17191405/20240910_CEDA_Strategische_sessie.pdf)
+- The presentation: [20240910_CEDA_Strategische_sessie.pdf](https://github.com/user-attachments/files/17191405/20240910_CEDA_Strategische_sessie.pdf)
+- After that all participants were in constantly changing groups discussing specific topics for ~20 minutes. They could give go / no-go signals (green and red) and provide additional arugments, suggestions, disuccsion (post-its).
+
+A few of the many groups at work:
 
 <div align="center">
-<img src="[https://github.com/ed2c/public_activities/assets/6919390/3112d765-0cce-47fa-adc0-092768b5197c](https://github.com/user-attachments/assets/89057af1-67ca-4c48-ab6a-5692cc81a624)" width="400">
+  <img src="https://github.com/user-attachments/assets/89057af1-67ca-4c48-ab6a-5692cc81a624" width="400">
+  <img src="https://github.com/user-attachments/assets/5ad30893-a1ba-435c-b88a-54573df951e6" width="400">
+  <img src="https://github.com/user-attachments/assets/9711fd3c-b7a8-4dd9-b18a-356dcb82e590" width="400">
+  <img src="https://github.com/user-attachments/assets/8a2ea962-5a7b-4ea5-8e80-97b8b8677738" width="400">
 </div>
 
-First results. Green is 'positive' vs red 'negative', blue is 'interesting' vs red 'not interesting'. We will present conclusies, also based on qualitative feedback during the SURF Onderwijsdagen.
-(![afbeelding](https://github.com/user-attachments/assets/979f5464-558d-4ea0-9a0d-5fe05e869e35)
+These interactive sessions let to the first results. Green is 'positive' vs red 'negative', blue is 'interesting' vs red 'not interesting'. We will present conclusies, also based on qualitative feedback during the SURF Onderwijsdagen.
+
+![afbeelding](https://github.com/user-attachments/assets/979f5464-558d-4ea0-9a0d-5fe05e869e35)
 
 
 # 24 June 2024
@@ -27,7 +34,7 @@ The second CEDA Workhsop
 We moved to a larger external location, that was still rather crowded (with people crawling under the tables) 
 
 <div align="center">
-<img = src="https://github.com/ed2c/public_activities/assets/6919390/d7286a96-b965-4fff-85c5-3e24ee547ca9">
+  <img = src="https://github.com/ed2c/public_activities/assets/6919390/d7286a96-b965-4fff-85c5-3e24ee547ca9">
 </div>
 
 
